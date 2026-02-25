@@ -48,7 +48,7 @@ Deploy in <strong>30 seconds</strong> — Say goodbye to endless scrolling, only
 
 ## 📑 Quick Navigation
 
-> 💡 **Click the links below** to jump to the corresponding section. Start with "**Quick Start**" for deployment, see "**Configuration Guide**" for detailed customization
+> 💡 **Click the links below** to jump to the corresponding section. Start with "**Quick Start**" for deployment, see "**Configuration Guide**" for detailed customization 
 
 <div align="center">
 
